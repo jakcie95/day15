@@ -23,7 +23,7 @@ public class QuizJFrame extends Thread{
 		
 		c.add(label);
 		frame.setLocation(1000, 200); // 화면내 위치 지정
-		frame.setPreferredSize(new Dimension(500, 200));//사이즈 지정
+		frame.setPreferredSize(new Dimension(600, 300));//사이즈 지정
 		frame.pack();
 		
 		frame.setVisible(true);
